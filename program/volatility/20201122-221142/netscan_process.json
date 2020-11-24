@@ -1,0 +1,122 @@
+{
+	"1408": {
+		"protocol": "UDPv6",
+		"name": "svchost.exe",
+		"local address": "",
+		"foreign address": "*",
+		"state": "",
+		"count": "16"
+	},
+	"1020": {
+		"protocol": "UDPv4",
+		"name": "svchost.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "*",
+		"state": "",
+		"count": "9"
+	},
+	"2436": {
+		"protocol": "TCPv4",
+		"name": "SearchProtocol",
+		"local address": "192.168.79.131",
+		"foreign address": "192.168.79.250",
+		"state": "SYN_SENT",
+		"count": "92"
+	},
+	"4": {
+		"protocol": "TCPv4",
+		"name": "System",
+		"local address": "127.0.0.1",
+		"foreign address": "127.0.0.1",
+		"state": "CLOSED",
+		"count": "7"
+	},
+	"584": {
+		"protocol": "UDPv4",
+		"name": "svchost.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "*",
+		"state": "",
+		"count": "5"
+	},
+	"792": {
+		"protocol": "UDPv6",
+		"name": "svchost.exe",
+		"local address": "fe80",
+		"foreign address": "*",
+		"state": "",
+		"count": "3"
+	},
+	"2304": {
+		"protocol": "UDPv4",
+		"name": "explorer.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "*",
+		"state": "",
+		"count": "1"
+	},
+	"1496": {
+		"protocol": "TCPv4",
+		"name": "svchost.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "1"
+	},
+	"516": {
+		"protocol": "TCPv4",
+		"name": "lsass.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "2"
+	},
+	"508": {
+		"protocol": "TCPv4",
+		"name": "services.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "2"
+	},
+	"868": {
+		"protocol": "TCPv4",
+		"name": "svchost.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "2"
+	},
+	"700": {
+		"protocol": "TCPv4",
+		"name": "svchost.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "2"
+	},
+	"404": {
+		"protocol": "TCPv4",
+		"name": "wininit.exe",
+		"local address": "0.0.0.0",
+		"foreign address": "0.0.0.0",
+		"state": "LISTENING",
+		"count": "2"
+	},
+	"CLOSED": {
+		"protocol": "TCPv4",
+		"name": "-1",
+		"local address": "216.71.117.3",
+		"foreign address": "24.176.95.4",
+		"state": "",
+		"count": "0"
+	},
+	"6": {
+		"protocol": "TCPv4",
+		"name": "'",
+		"local address": "-",
+		"foreign address": "168.19.122.3",
+		"state": "CLOSED",
+		"count": "0"
+	}
+}

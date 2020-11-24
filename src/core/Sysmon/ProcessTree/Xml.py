@@ -2,11 +2,10 @@ import re
 import os
 import json
 import datetime
-# from lxml import etree as ET
+from lxml import etree as ET
 # from ProcessTree.Entry import utc_to_asia_seoul
 
 #xml Parsing
-from xlrd.xlsx import ET
 
 from src.core.Sysmon.ProcessTree.Entry import utc_to_asia_seoul
 

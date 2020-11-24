@@ -5,6 +5,7 @@ import sys
 import threading
 from threading import Thread
 from multiprocessing import Process, Queue
+import os, sys, time
 
 from PyQt5.QtGui import QIcon
 from PyQt5.QtCore import Qt, QObject, pyqtSignal, QEvent
@@ -16,7 +17,6 @@ from src.gui.DefenderLog_frame import Amsi_main
 from src.gui.EventLogAnalysis_frame import fileopen, getdir, Sys_main
 from src.gui.MemoryAnalysis_frame import Memory_main, Memory_JSON
 
-
 class MyApp(QMainWindow, QWidget):
 
     def __init__(self):
@@ -26,7 +26,7 @@ class MyApp(QMainWindow, QWidget):
         self.setGeometry(150, 120, 1400, 900)
         self.initUI()
         self.tab_session = 0
-        sysmon_main()
+        # sysmon_main()
 
     def initUI(self):
         exitAction = QAction(QIcon('exit.png'), 'Exit', self)
@@ -38,6 +38,7 @@ class MyApp(QMainWindow, QWidget):
         newMemory = QAction(QIcon('exit.png'), 'New Memory Analysis', self)
         newMemory.setShortcut('Ctrl+M')
         newMemory.triggered.connect(self.btn_newMemroy_menu)
+        self.newMemory = newMemory
 
         # 이벤트 로그 메뉴바
         newEventLog = QAction(QIcon('exit.png'), 'New Event Log Analysis', self)
@@ -53,11 +54,12 @@ class MyApp(QMainWindow, QWidget):
         menubar = self.menuBar()
         menubar.setNativeMenuBar(False)
         filemenu = menubar.addMenu('&File')
-
+        self.filemenu = filemenu
         # 'File' 메뉴 바에 메뉴 넣기
         filemenu.addAction(newMemory)
         ## load memory result 하위 메뉴 넣기
         loadMemoryResult = filemenu.addMenu('&Load Memory Analysis Result')
+        self.LoadMemoryResult = loadMemoryResult
         filemenu.addMenu(loadMemoryResult)
         ## 폴더명 긁어오기
         dir_list = getVolatilityDir()
@@ -68,6 +70,12 @@ class MyApp(QMainWindow, QWidget):
             # loadMemoryResult.triggered.connect(self.btn_loadMemoryResult())
             last_file.triggered.connect(lambda temp=name, name=str(name):self.btn_loadMemoryResult(name))
             # clickable(last_file).con
+
+        f5Action = QAction(QIcon('exit.png'), 'Refresh', self)
+        f5Action.setStatusTip('refresh')
+        f5Action.triggered.connect(lambda:self.f5event())
+
+
         # Event Log 관련 메뉴
         filemenu.addAction(newEventLog)
         ## Load Event Log Result 하위 메뉴
@@ -86,6 +94,7 @@ class MyApp(QMainWindow, QWidget):
         # filemenu.addAction(newEventLog)
         # filemenu.addAction(loadEventLogResult)
         filemenu.addAction(loadDefenderEventLog)
+        filemenu.addAction(f5Action)
         filemenu.addAction(exitAction)
 
         mainLayout = QWidget()
@@ -153,7 +162,7 @@ class MyApp(QMainWindow, QWidget):
 
     # 이벤트로그 분석 메뉴 클릭 이벤트 - 탭 추가
     def btn_newEventLog_menu(self):
-        self.tab_session += 1
+        # self.tab_session += 1
         # name = "New Event Log"
         # tab_name = name + " #" + str(self.tab_session)
         procname2 = multiprocessing.Process(target=get_event_final, name="sysmon process")
@@ -173,11 +182,12 @@ class MyApp(QMainWindow, QWidget):
 
     def btn_loadEventLogResult_menu(self,name2):
         self.tab_session += 1
-        name = "Lod Event Log"
+        # name = "Lod Event Log"
+        name = getdir(name2)
         tab_name = name + " #" + str(self.tab_session)
-        getdir(name2)
         fileopen(name2)
         self.tabs.addTab(Sys_main(), tab_name)
+
 
     # 'File' 메뉴에서 exit 클릭 했을 때
     def exitAction(self):
@@ -187,6 +197,10 @@ class MyApp(QMainWindow, QWidget):
     def closeTab(self, index):
         self.tab_session -= 1
         self.tabs.removeTab(index)
+
+    def f5event(self):
+        self.hide()
+        os.system("python .\\Main_frame.py\"")
 
 def getVolatilityDir():
     path = "..\\..\\program\\volatility"

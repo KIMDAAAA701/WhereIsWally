@@ -1,0 +1,16 @@
+{
+	"1": {
+		"LastUpDate": "2009-07-14",
+		"Registry": "\\\\??\\\\C:\\\\Windows\\\\ServiceProfiles\\\\LocalService\\\\NTUSER.DAT",
+		"virtual": "0xfffff8a000d44010",
+		"name": "NTUSER.DA",
+		"value": "b'REG_EXPAND_SZ Sidebar         : (S) %ProgramFiles%\\\\Windows Sidebar\\\\Sidebar.exe /autoRun\\x00']"
+	},
+	"12": {
+		"LastUpDate": "2009-07-14",
+		"Registry": "\\\\??\\\\C:\\\\Windows\\\\ServiceProfiles\\\\NetworkService\\\\NTUSER.DAT",
+		"virtual": "0xfffff8a000cb1010",
+		"name": "NTUSER.DA",
+		"value": "b'REG_EXPAND_SZ Sidebar         : (S) %ProgramFiles%\\\\Windows Sidebar\\\\Sidebar.exe /autoRun\\x00']"
+	}
+}

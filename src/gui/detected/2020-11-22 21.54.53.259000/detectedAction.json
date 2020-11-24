@@ -1,0 +1,2613 @@
+[
+  {
+    "0": [
+      {
+        "Process Name": "UNKNOWN",
+        "Image": "UNKNOWN",
+        "Pid": 34336,
+        "Time": "2020-11-22 21:54:53.293000",
+        "action": [],
+        "1": [
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 40476,
+            "Time": "2020-11-22 21:54:53.293000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42180,
+                "Time": "2020-11-22 21:54:53.296000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43108,
+                "Time": "2020-11-22 21:54:53.319000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 40108,
+                    "Time": "2020-11-22 21:54:53.328000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 38168,
+            "Time": "2020-11-22 21:54:53.503000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42444,
+                "Time": "2020-11-22 21:54:53.512000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 5024,
+            "Time": "2020-11-22 21:54:53.852000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 38580,
+                "Time": "2020-11-22 21:54:53.856000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 4944,
+                "Time": "2020-11-22 21:54:53.878000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 15884,
+                    "Time": "2020-11-22 21:54:53.887000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 40092,
+            "Time": "2020-11-22 21:54:54.410000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 18568,
+                "Time": "2020-11-22 21:54:54.413000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43252,
+                "Time": "2020-11-22 21:54:54.447000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43732,
+                    "Time": "2020-11-22 21:54:54.545000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 36212,
+            "Time": "2020-11-22 21:54:54.715000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 40108,
+                "Time": "2020-11-22 21:54:54.718000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 30932,
+                "Time": "2020-11-22 21:54:54.739000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 42968,
+                    "Time": "2020-11-22 21:54:54.747000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 16676,
+            "Time": "2020-11-22 21:54:54.895000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 41988,
+                "Time": "2020-11-22 21:54:54.903000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 9568,
+            "Time": "2020-11-22 21:55:01.987000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 40552,
+                "Time": "2020-11-22 21:55:01.995000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 43428,
+            "Time": "2020-11-22 21:55:05.625000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43904,
+                "Time": "2020-11-22 21:55:05.628000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 34372,
+                "Time": "2020-11-22 21:55:05.648000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 40476,
+                    "Time": "2020-11-22 21:55:05.657000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 42264,
+            "Time": "2020-11-22 21:55:08.046000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43868,
+                "Time": "2020-11-22 21:55:08.054000",
+                "action": []
+              },
+              {
+                "Process Name": "wmic.exe",
+                "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                "Pid": 34864,
+                "Time": "2020-11-22 21:55:08.209000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 43932,
+                "Time": "2020-11-22 21:55:08.285000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wevtutil.exe",
+                    "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                    "Pid": 15948,
+                    "Time": "2020-11-22 21:55:08.294000",
+                    "action": []
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 40108,
+                "Time": "2020-11-22 21:55:08.410000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 41992,
+                "Time": "2020-11-22 21:55:08.421000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 43920,
+                "Time": "2020-11-22 21:55:08.435000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 18544,
+                "Time": "2020-11-22 21:55:46.982000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "python.exe",
+                    "Image": "D:\\Anaconda3\\python.exe",
+                    "Pid": 42660,
+                    "Time": "2020-11-22 21:55:46.994000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "wmic.exe",
+                        "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                        "Pid": 42968,
+                        "Time": "2020-11-22 21:55:47.149000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 41992,
+                        "Time": "2020-11-22 21:55:47.228000",
+                        "action": [],
+                        "5": [
+                          {
+                            "Process Name": "wevtutil.exe",
+                            "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                            "Pid": 43920,
+                            "Time": "2020-11-22 21:55:47.536000",
+                            "action": []
+                          }
+                        ]
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 30932,
+                        "Time": "2020-11-22 21:55:47.560000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 14724,
+                        "Time": "2020-11-22 21:55:47.661000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 43420,
+                        "Time": "2020-11-22 21:55:47.702000",
+                        "action": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 40284,
+            "Time": "2020-11-22 21:55:48.159000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 2908,
+                "Time": "2020-11-22 21:55:48.162000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 10892,
+                "Time": "2020-11-22 21:55:48.183000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43940,
+                    "Time": "2020-11-22 21:55:48.192000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 42472,
+            "Time": "2020-11-22 21:55:48.338000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 36944,
+                "Time": "2020-11-22 21:55:48.347000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 42876,
+            "Time": "2020-11-22 21:57:45.195000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 34048,
+                "Time": "2020-11-22 21:57:45.198000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43352,
+                "Time": "2020-11-22 21:57:45.221000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 39032,
+                    "Time": "2020-11-22 21:57:45.230000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 42444,
+            "Time": "2020-11-22 21:57:45.359000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 24356,
+                "Time": "2020-11-22 21:57:45.368000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 39900,
+            "Time": "2020-11-22 21:57:58.235000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42012,
+                "Time": "2020-11-22 21:57:58.244000",
+                "action": []
+              },
+              {
+                "Process Name": "wmic.exe",
+                "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                "Pid": 42876,
+                "Time": "2020-11-22 21:57:58.438000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 34148,
+                "Time": "2020-11-22 21:57:58.578000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wevtutil.exe",
+                    "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                    "Pid": 19212,
+                    "Time": "2020-11-22 21:57:58.890000",
+                    "action": []
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 42884,
+                "Time": "2020-11-22 21:57:58.917000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 30064,
+                "Time": "2020-11-22 21:57:58.935000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 3536,
+                "Time": "2020-11-22 21:57:58.953000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 40284,
+            "Time": "2020-11-22 21:58:00.689000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 22748,
+                "Time": "2020-11-22 21:58:00.692000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42392,
+                "Time": "2020-11-22 21:58:00.715000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 40768,
+                    "Time": "2020-11-22 21:58:00.724000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 32532,
+            "Time": "2020-11-22 21:58:04.041000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42368,
+                "Time": "2020-11-22 21:58:04.045000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42464,
+                "Time": "2020-11-22 21:58:04.066000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 42660,
+                    "Time": "2020-11-22 21:58:04.074000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 44100,
+            "Time": "2020-11-22 21:58:21.944000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44108,
+                "Time": "2020-11-22 21:58:21.952000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 44180,
+            "Time": "2020-11-22 21:58:24.598000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44188,
+                "Time": "2020-11-22 21:58:24.606000",
+                "action": []
+              },
+              {
+                "Process Name": "wmic.exe",
+                "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                "Pid": 44232,
+                "Time": "2020-11-22 21:58:24.765000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 44276,
+                "Time": "2020-11-22 21:58:24.843000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wevtutil.exe",
+                    "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                    "Pid": 44292,
+                    "Time": "2020-11-22 21:58:24.853000",
+                    "action": []
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 44316,
+                "Time": "2020-11-22 21:58:24.878000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 44332,
+                "Time": "2020-11-22 21:58:24.890000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 44348,
+                "Time": "2020-11-22 21:58:24.903000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 44368,
+            "Time": "2020-11-22 21:58:25.212000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44376,
+                "Time": "2020-11-22 21:58:25.215000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44424,
+                "Time": "2020-11-22 21:58:25.236000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44448,
+                    "Time": "2020-11-22 21:58:25.244000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 44816,
+            "Time": "2020-11-22 21:58:50.616000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44824,
+                "Time": "2020-11-22 21:58:50.619000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44872,
+                "Time": "2020-11-22 21:58:50.640000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44896,
+                    "Time": "2020-11-22 21:58:50.649000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 30064,
+            "Time": "2020-11-22 22:08:47.542000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44952,
+                "Time": "2020-11-22 22:08:47.546000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43976,
+                "Time": "2020-11-22 22:08:47.567000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44880,
+                    "Time": "2020-11-22 22:08:47.576000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 31524,
+            "Time": "2020-11-22 22:08:58.516000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42872,
+                "Time": "2020-11-22 22:08:58.524000",
+                "action": []
+              },
+              {
+                "Process Name": "wmic.exe",
+                "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                "Pid": 2196,
+                "Time": "2020-11-22 22:08:58.698000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 42272,
+                "Time": "2020-11-22 22:08:58.783000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wevtutil.exe",
+                    "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                    "Pid": 41320,
+                    "Time": "2020-11-22 22:08:59.098000",
+                    "action": []
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 9992,
+                "Time": "2020-11-22 22:08:59.123000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 36924,
+                "Time": "2020-11-22 22:08:59.246000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 41708,
+                "Time": "2020-11-22 22:08:59.306000",
+                "action": []
+              },
+              {
+                "Process Name": "python.exe",
+                "Image": "D:\\Anaconda3\\python.exe",
+                "Pid": 39628,
+                "Time": "2020-11-22 22:10:06.169000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wmic.exe",
+                    "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                    "Pid": 19384,
+                    "Time": "2020-11-22 22:10:06.320000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 40576,
+                    "Time": "2020-11-22 22:10:06.451000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "wevtutil.exe",
+                        "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                        "Pid": 41956,
+                        "Time": "2020-11-22 22:10:06.460000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 43792,
+                    "Time": "2020-11-22 22:10:06.482000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 14672,
+                    "Time": "2020-11-22 22:10:06.503000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 24396,
+                    "Time": "2020-11-22 22:10:06.516000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 43052,
+                    "Time": "2020-11-22 22:10:07.121000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 42944,
+                    "Time": "2020-11-22 22:10:07.130000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 37520,
+                        "Time": "2020-11-22 22:10:07.718000",
+                        "action": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 30924,
+            "Time": "2020-11-22 22:09:12.518000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 40152,
+                "Time": "2020-11-22 22:09:12.522000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 37140,
+                "Time": "2020-11-22 22:09:12.542000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 39596,
+                    "Time": "2020-11-22 22:09:12.550000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 44136,
+            "Time": "2020-11-22 22:10:15.568000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 36772,
+                "Time": "2020-11-22 22:10:15.571000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 39596,
+                "Time": "2020-11-22 22:10:15.595000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 45040,
+                    "Time": "2020-11-22 22:10:15.605000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 41372,
+            "Time": "2020-11-22 22:10:15.633000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 41224,
+                "Time": "2020-11-22 22:10:15.637000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44968,
+                "Time": "2020-11-22 22:10:15.659000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43860,
+                    "Time": "2020-11-22 22:10:15.668000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 44200,
+            "Time": "2020-11-22 22:10:15.810000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43920,
+                "Time": "2020-11-22 22:10:15.818000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 43580,
+            "Time": "2020-11-22 22:10:16.201000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 38024,
+                "Time": "2020-11-22 22:10:16.204000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42876,
+                "Time": "2020-11-22 22:10:16.225000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 40092,
+                    "Time": "2020-11-22 22:10:16.233000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 10892,
+            "Time": "2020-11-22 22:10:44.621000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 13104,
+                "Time": "2020-11-22 22:10:44.625000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 35676,
+                "Time": "2020-11-22 22:10:44.646000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43596,
+                    "Time": "2020-11-22 22:10:44.655000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 35372,
+            "Time": "2020-11-22 22:10:45.008000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44888,
+                "Time": "2020-11-22 22:10:45.013000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44268,
+                "Time": "2020-11-22 22:10:45.089000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43188,
+                    "Time": "2020-11-22 22:10:45.133000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 43136,
+            "Time": "2020-11-22 22:10:45.157000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44068,
+                "Time": "2020-11-22 22:10:45.160000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 41128,
+                "Time": "2020-11-22 22:10:45.181000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 37764,
+                    "Time": "2020-11-22 22:10:45.189000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 11912,
+            "Time": "2020-11-22 22:10:45.422000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44580,
+                "Time": "2020-11-22 22:10:45.430000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 18080,
+            "Time": "2020-11-22 22:10:45.710000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 38468,
+                "Time": "2020-11-22 22:10:45.713000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43460,
+                "Time": "2020-11-22 22:10:45.734000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44048,
+                    "Time": "2020-11-22 22:10:45.742000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 43868,
+            "Time": "2020-11-22 22:10:46.919000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43768,
+                "Time": "2020-11-22 22:10:46.922000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 30064,
+                "Time": "2020-11-22 22:10:46.948000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 41820,
+                    "Time": "2020-11-22 22:10:46.956000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 42580,
+            "Time": "2020-11-22 22:10:47.335000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42456,
+                "Time": "2020-11-22 22:10:47.339000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42160,
+                "Time": "2020-11-22 22:10:47.404000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 37420,
+                    "Time": "2020-11-22 22:10:47.444000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 41320,
+            "Time": "2020-11-22 22:10:47.494000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 42472,
+                "Time": "2020-11-22 22:10:47.498000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44692,
+                "Time": "2020-11-22 22:10:47.520000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 36268,
+                    "Time": "2020-11-22 22:10:47.528000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 21260,
+            "Time": "2020-11-22 22:10:47.764000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 14672,
+                "Time": "2020-11-22 22:10:47.772000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 15392,
+            "Time": "2020-11-22 22:10:48.050000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 39952,
+                "Time": "2020-11-22 22:10:48.053000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 44224,
+                "Time": "2020-11-22 22:10:48.074000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44276,
+                    "Time": "2020-11-22 22:10:48.082000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 37520,
+            "Time": "2020-11-22 22:10:53.306000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43756,
+                "Time": "2020-11-22 22:10:53.314000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 27072,
+            "Time": "2020-11-22 22:10:54.915000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 41900,
+                "Time": "2020-11-22 22:10:54.923000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 36772,
+            "Time": "2020-11-22 22:10:58.873000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 23836,
+                "Time": "2020-11-22 22:10:58.881000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 44992,
+            "Time": "2020-11-22 22:11:00.345000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 41224,
+                "Time": "2020-11-22 22:11:00.349000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43308,
+                "Time": "2020-11-22 22:11:00.369000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 33664,
+                    "Time": "2020-11-22 22:11:00.377000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 44472,
+            "Time": "2020-11-22 22:11:14.325000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43976,
+                "Time": "2020-11-22 22:11:14.328000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42192,
+                "Time": "2020-11-22 22:11:14.349000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44584,
+                    "Time": "2020-11-22 22:11:14.357000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 40176,
+            "Time": "2020-11-22 22:11:14.379000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 38688,
+                "Time": "2020-11-22 22:11:14.382000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 37120,
+                "Time": "2020-11-22 22:11:14.403000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 19712,
+                    "Time": "2020-11-22 22:11:14.411000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 43140,
+            "Time": "2020-11-22 22:11:14.399000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43972,
+                "Time": "2020-11-22 22:11:14.407000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 43276,
+            "Time": "2020-11-22 22:11:14.938000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43116,
+                "Time": "2020-11-22 22:11:14.942000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 41408,
+                "Time": "2020-11-22 22:11:14.963000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 41552,
+                    "Time": "2020-11-22 22:11:14.971000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 43188,
+            "Time": "2020-11-22 22:11:16.020000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44884,
+                "Time": "2020-11-22 22:11:16.028000",
+                "action": []
+              },
+              {
+                "Process Name": "wmic.exe",
+                "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                "Pid": 44092,
+                "Time": "2020-11-22 22:11:16.183000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 27660,
+                "Time": "2020-11-22 22:11:16.319000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wevtutil.exe",
+                    "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                    "Pid": 37596,
+                    "Time": "2020-11-22 22:11:16.446000",
+                    "action": []
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 34808,
+                "Time": "2020-11-22 22:11:16.496000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 43348,
+                "Time": "2020-11-22 22:11:16.515000",
+                "action": []
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 40756,
+                "Time": "2020-11-22 22:11:16.574000",
+                "action": []
+              },
+              {
+                "Process Name": "python.exe",
+                "Image": "D:\\Anaconda3\\python.exe",
+                "Pid": 12788,
+                "Time": "2020-11-22 22:11:41.687000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "wmic.exe",
+                    "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                    "Pid": 44788,
+                    "Time": "2020-11-22 22:11:41.832000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 41320,
+                    "Time": "2020-11-22 22:11:41.910000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "wevtutil.exe",
+                        "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                        "Pid": 42932,
+                        "Time": "2020-11-22 22:11:41.919000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 41908,
+                    "Time": "2020-11-22 22:11:41.941000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 30224,
+                    "Time": "2020-11-22 22:11:41.951000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "Cmd.Exe",
+                    "Image": "C:\\Windows\\System32\\cmd.exe",
+                    "Pid": 30924,
+                    "Time": "2020-11-22 22:11:41.964000",
+                    "action": []
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 40152,
+                    "Time": "2020-11-22 22:11:42.543000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 41596,
+                        "Time": "2020-11-22 22:11:43.127000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 41408,
+                    "Time": "2020-11-22 22:13:02.076000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 43800,
+                        "Time": "2020-11-22 22:13:02.659000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 36796,
+                    "Time": "2020-11-22 22:13:04.756000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44220,
+                        "Time": "2020-11-22 22:13:05.327000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 37812,
+                    "Time": "2020-11-22 22:13:08.254000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42352,
+                        "Time": "2020-11-22 22:13:08.826000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 40084,
+                    "Time": "2020-11-22 22:13:11.424000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44072,
+                        "Time": "2020-11-22 22:13:11.994000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44616,
+                    "Time": "2020-11-22 22:13:13.735000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 43276,
+                        "Time": "2020-11-22 22:13:14.322000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44080,
+                    "Time": "2020-11-22 22:13:15.932000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42200,
+                        "Time": "2020-11-22 22:13:16.504000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 22208,
+                    "Time": "2020-11-22 22:13:18.076000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42472,
+                        "Time": "2020-11-22 22:13:18.649000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43024,
+                    "Time": "2020-11-22 22:13:20.457000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 41304,
+                        "Time": "2020-11-22 22:13:21.030000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44860,
+                    "Time": "2020-11-22 22:13:22.797000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44984,
+                        "Time": "2020-11-22 22:13:23.769000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 41320,
+                    "Time": "2020-11-22 22:13:25.462000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 43756,
+                        "Time": "2020-11-22 22:13:26.033000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 37072,
+                    "Time": "2020-11-22 22:13:28.279000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44212,
+                        "Time": "2020-11-22 22:13:28.853000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 39900,
+                    "Time": "2020-11-22 22:13:30.502000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 40092,
+                        "Time": "2020-11-22 22:13:31.080000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 35372,
+                    "Time": "2020-11-22 22:13:32.967000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42720,
+                        "Time": "2020-11-22 22:13:33.543000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44864,
+                    "Time": "2020-11-22 22:13:35.392000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 36332,
+                        "Time": "2020-11-22 22:13:35.995000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 41956,
+                    "Time": "2020-11-22 22:13:38.572000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 43860,
+                        "Time": "2020-11-22 22:13:39.149000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 45040,
+                    "Time": "2020-11-22 22:13:42.603000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 35248,
+                        "Time": "2020-11-22 22:13:43.171000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44348,
+                    "Time": "2020-11-22 22:13:45.247000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 10840,
+                        "Time": "2020-11-22 22:13:45.820000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 14124,
+                    "Time": "2020-11-22 22:13:47.562000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42212,
+                        "Time": "2020-11-22 22:13:48.135000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 40832,
+                    "Time": "2020-11-22 22:13:49.701000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44012,
+                        "Time": "2020-11-22 22:13:50.795000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 39600,
+                    "Time": "2020-11-22 22:13:52.404000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 40592,
+                        "Time": "2020-11-22 22:13:52.979000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 42596,
+                    "Time": "2020-11-22 22:13:54.610000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42704,
+                        "Time": "2020-11-22 22:13:55.201000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 42960,
+                    "Time": "2020-11-22 22:13:57.077000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 40220,
+                        "Time": "2020-11-22 22:13:57.648000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 36348,
+                    "Time": "2020-11-22 22:13:59.301000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44424,
+                        "Time": "2020-11-22 22:13:59.870000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 36404,
+                    "Time": "2020-11-22 22:14:01.728000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 39580,
+                        "Time": "2020-11-22 22:14:02.297000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44036,
+                    "Time": "2020-11-22 22:14:03.912000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44800,
+                        "Time": "2020-11-22 22:14:04.481000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43300,
+                    "Time": "2020-11-22 22:14:06.605000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 39220,
+                        "Time": "2020-11-22 22:14:07.243000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 42392,
+                    "Time": "2020-11-22 22:14:08.875000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 17292,
+                        "Time": "2020-11-22 22:14:09.443000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43956,
+                    "Time": "2020-11-22 22:14:11.559000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44136,
+                        "Time": "2020-11-22 22:14:12.257000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 45028,
+                    "Time": "2020-11-22 22:14:14.881000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44644,
+                        "Time": "2020-11-22 22:14:15.449000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44312,
+                    "Time": "2020-11-22 22:14:17.293000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42264,
+                        "Time": "2020-11-22 22:14:17.862000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 7800,
+                    "Time": "2020-11-22 22:14:19.653000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 14672,
+                        "Time": "2020-11-22 22:14:20.220000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44208,
+                    "Time": "2020-11-22 22:14:21.955000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 36796,
+                        "Time": "2020-11-22 22:14:22.530000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 38512,
+                    "Time": "2020-11-22 22:14:24.128000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42160,
+                        "Time": "2020-11-22 22:14:24.697000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 38644,
+                    "Time": "2020-11-22 22:14:26.513000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 35932,
+                        "Time": "2020-11-22 22:14:27.343000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43768,
+                    "Time": "2020-11-22 22:14:29.158000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44396,
+                        "Time": "2020-11-22 22:14:29.728000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 42872,
+                    "Time": "2020-11-22 22:14:31.409000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42048,
+                        "Time": "2020-11-22 22:14:32.099000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44636,
+                    "Time": "2020-11-22 22:14:34.087000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 41812,
+                        "Time": "2020-11-22 22:14:34.654000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 36880,
+                    "Time": "2020-11-22 22:14:36.264000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 41304,
+                        "Time": "2020-11-22 22:14:36.832000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 34048,
+                    "Time": "2020-11-22 22:14:38.812000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 42524,
+                        "Time": "2020-11-22 22:14:39.383000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 40092,
+                    "Time": "2020-11-22 22:14:41.048000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 27072,
+                        "Time": "2020-11-22 22:14:41.961000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43116,
+                    "Time": "2020-11-22 22:14:43.859000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 44824,
+                        "Time": "2020-11-22 22:14:44.428000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 44204,
+                    "Time": "2020-11-22 22:14:46.643000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 36332,
+                        "Time": "2020-11-22 22:14:47.631000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43860,
+                    "Time": "2020-11-22 22:14:51.596000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 40388,
+                        "Time": "2020-11-22 22:14:52.167000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 43340,
+                    "Time": "2020-11-22 22:15:02.489000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 20304,
+                        "Time": "2020-11-22 22:15:03.061000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 34764,
+                    "Time": "2020-11-22 22:15:13.721000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 41228,
+                        "Time": "2020-11-22 22:15:14.305000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 33664,
+                    "Time": "2020-11-22 22:15:15.836000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 43320,
+                        "Time": "2020-11-22 22:15:16.409000",
+                        "action": []
+                      }
+                    ]
+                  },
+                  {
+                    "Process Name": "-",
+                    "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                    "Pid": 40768,
+                    "Time": "2020-11-22 22:15:20.093000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "-",
+                        "Image": "D:\\\u00c4\u00c9\u00c0\u00cc\u00bd\u00af\u00b5\u00e5\u00c1\u00d6\u00b4\u00cf\u00be\u00ee\\python\\WhereIsWally\\program\\volatility\\vol_2.6.exe",
+                        "Pid": 16268,
+                        "Time": "2020-11-22 22:15:20.670000",
+                        "action": []
+                      }
+                    ]
+                  }
+                ]
+              },
+              {
+                "Process Name": "Cmd.Exe",
+                "Image": "C:\\Windows\\System32\\cmd.exe",
+                "Pid": 44728,
+                "Time": "2020-11-22 22:25:06.098000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "python.exe",
+                    "Image": "D:\\Anaconda3\\python.exe",
+                    "Pid": 42248,
+                    "Time": "2020-11-22 22:25:06.109000",
+                    "action": [],
+                    "4": [
+                      {
+                        "Process Name": "wmic.exe",
+                        "Image": "C:\\Windows\\System32\\wbem\\WMIC.exe",
+                        "Pid": 35944,
+                        "Time": "2020-11-22 22:25:06.254000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 44240,
+                        "Time": "2020-11-22 22:25:06.390000",
+                        "action": [],
+                        "5": [
+                          {
+                            "Process Name": "wevtutil.exe",
+                            "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                            "Pid": 42916,
+                            "Time": "2020-11-22 22:25:06.399000",
+                            "action": []
+                          }
+                        ]
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 44876,
+                        "Time": "2020-11-22 22:25:06.422000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 37596,
+                        "Time": "2020-11-22 22:25:06.448000",
+                        "action": []
+                      },
+                      {
+                        "Process Name": "Cmd.Exe",
+                        "Image": "C:\\Windows\\System32\\cmd.exe",
+                        "Pid": 44252,
+                        "Time": "2020-11-22 22:25:06.461000",
+                        "action": []
+                      }
+                    ]
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 35944,
+            "Time": "2020-11-22 22:11:22.241000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 36008,
+                "Time": "2020-11-22 22:11:22.245000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 5112,
+                "Time": "2020-11-22 22:11:22.265000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 43836,
+                    "Time": "2020-11-22 22:11:22.273000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 38472,
+            "Time": "2020-11-22 22:24:55.555000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 43296,
+                "Time": "2020-11-22 22:24:55.560000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 28044,
+                "Time": "2020-11-22 22:24:55.583000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 44756,
+                    "Time": "2020-11-22 22:24:55.593000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 42272,
+            "Time": "2020-11-22 22:24:55.642000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 39880,
+                "Time": "2020-11-22 22:24:55.646000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 43168,
+                "Time": "2020-11-22 22:24:55.681000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 18536,
+                    "Time": "2020-11-22 22:24:55.689000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          },
+          {
+            "Process Name": "python.exe",
+            "Image": "D:\\Anaconda3\\python.exe",
+            "Pid": 42472,
+            "Time": "2020-11-22 22:24:55.645000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44616,
+                "Time": "2020-11-22 22:24:55.677000",
+                "action": []
+              }
+            ]
+          },
+          {
+            "Process Name": "runnerw.exe",
+            "Image": "D:\\PyCharm Community Edition 2020.2.3\\bin\\runnerw64.exe",
+            "Pid": 27968,
+            "Time": "2020-11-22 22:24:56.216000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "CONHOST.EXE",
+                "Image": "C:\\Windows\\System32\\conhost.exe",
+                "Pid": 44148,
+                "Time": "2020-11-22 22:24:56.219000",
+                "action": []
+              },
+              {
+                "Process Name": "git.exe",
+                "Image": "C:\\Program Files\\Git\\cmd\\git.exe",
+                "Pid": 42580,
+                "Time": "2020-11-22 22:24:56.240000",
+                "action": [],
+                "3": [
+                  {
+                    "Process Name": "git.exe",
+                    "Image": "C:\\Program Files\\Git\\mingw64\\bin\\git.exe",
+                    "Pid": 9416,
+                    "Time": "2020-11-22 22:24:56.248000",
+                    "action": []
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  },
+  {
+    "0": [
+      {
+        "Process Name": "UNKNOWN",
+        "Image": "D:\\Anaconda3\\python.exe",
+        "Pid": 42348,
+        "Time": "0001-01-01 00:00:00",
+        "action": [],
+        "1": [
+          {
+            "Process Name": "Cmd.Exe",
+            "Image": "C:\\Windows\\System32\\cmd.exe",
+            "Pid": 40552,
+            "Time": "2020-11-22 21:54:53.550000",
+            "action": [],
+            "2": [
+              {
+                "Process Name": "wevtutil.exe",
+                "Image": "C:\\Windows\\System32\\wevtutil.exe",
+                "Pid": 35176,
+                "Time": "2020-11-22 21:54:53.654000",
+                "action": []
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]

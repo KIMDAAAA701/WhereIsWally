@@ -44,7 +44,7 @@ def memory_main():
     # memory_dump = "po.raw" #건규
     # memory_dump = "WIN-UDBRDQCHDVH-20201109-123030.raw" # 익상 - networker
     # memory_dump = "allabout.raw" # 1차 통합
-    memory_dump = "WIN-UDBRDQCHDVH-20201114-073411.raw" #익상 - powerghost
+    # memory_dump = "WIN-UDBRDQCHDVH-20201114-073411.raw" #익상 - powerghost
     # memory_dump = "netwireDump.raw" #태옥
     # memory_dump = "w.raw" # 건규
     # memory_dump = "VMW7K64-20201112-134022.raw" #익상 - powelicks

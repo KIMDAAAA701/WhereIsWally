@@ -230,18 +230,6 @@ class Amsi_main(StWidgetForm):
         self.box.addLayout(layout_bar)
         self.box.addLayout(layout_main)
 
-        # 상단 이전 버튼 생성 및 부착
-        btn1 = QPushButton('< 이전')
-        btn1.setMinimumWidth(70)
-        btn1.setMinimumHeight(30)
-        btn1.setMaximumWidth(70)
-        btn1.setMaximumHeight(30)
-        btn1.setStyleSheet(
-            "border-width: 1px;"
-            "border-color: #000000;"
-            "border-radius: 3px")
-        layout_bar.addWidget(btn1, alignment=Qt.AlignLeft)
-
         # 최근 로그, 이전 로그 출력 창 부착
         latestlogwid = Amsi_LatestLog()
         latestlogwid.setMinimumHeight(350)
@@ -256,16 +244,6 @@ class Amsi_main(StWidgetForm):
         #
         self.setWindowTitle('Find Wally')
         self.show()
-
-        btn1.clicked.connect(self.__mycell_clicked)
-        #
-        # self.setWindowTitle('Find Wally')
-        # self.show()
-
-    def __mycell_clicked(self, item):
-        subprocess.Popen(["python", "GUI_Main.py"])
-        sys.exit(0)
-        return
 
 
 
